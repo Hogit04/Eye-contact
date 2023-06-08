@@ -1,0 +1,11 @@
+barricade
+bench
+bollard
+chair
+fire_hydrant
+pole
+power_controller
+table
+traffic_sign
+tree_trunk
+crosswalk
